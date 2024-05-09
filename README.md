@@ -1,4 +1,3 @@
-#### Hi there 👋 
 I'm Yifan, a computer science grad with a knack for all things engineering. Now, as an Algorithm Engineer at Sophgo, I'm in the thick of business tool development and AI algorithm adaption– truly flexing my engineering muscles. I'm all about staying ahead of the curve, soaking up the latest AI trends, and infusing them into real-world projects. Ready to connect, collaborate, and drive innovation in tech! 🚀
 
 ![](https://komarev.com/ghpvc/?username=wangyifan2018)
