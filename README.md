@@ -66,15 +66,17 @@ I love sharing tools that bridge the gap between complex AI models and edge devi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.weijunext.com/api?username=wangyifan2018&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="wangyifan2018's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.weijunext.com/api/top-langs/?username=wangyifan2018&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Langs" width="48%" />
+  <!-- 稳定的 GitHub 连续贡献统计 (运行在独立的高防服务器上) -->
+  <img src="https://streak-stats.demolab.com?user=wangyifan2018&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" />
 </div>
 
+<br>
 <!-- Hidden Quote for a geeky vibe -->
 <br>
+
 <div align="center">
   <i>"Optimizing code is like solving a puzzle where the reward is saving time for everyone."</i>
 </div>
