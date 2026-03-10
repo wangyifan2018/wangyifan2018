@@ -68,6 +68,16 @@ I love sharing tools that bridge the gap between complex AI models and edge devi
 
 ### 📊 GitHub Activity & Achievements
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangyifan2018/wangyifan2018/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangyifan2018/wangyifan2018/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wangyifan2018/wangyifan2018/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
 <div align="center">
   <!-- 稳定的 GitHub 连续贡献统计 (运行在独立的高防服务器上) -->
   <img src="https://streak-stats.demolab.com?user=wangyifan2018&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" />
