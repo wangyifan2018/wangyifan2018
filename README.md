@@ -18,9 +18,8 @@
 
 Welcome to my GitHub! I'm an **AI System Engineer** with a deep passion for unlocking the physical limits of hardware through software architecture. From embedded MCUs to heterogeneous NPUs and TPUs, I specialize in bringing massive AI models to the edge.
 
-- 🏢 Currently working as an **Senior AI Enginner** at **Bosch XC**, focusing on VLA (Vision-Language-Action) models and Smart Cockpit AI architecture.
+- 🏢 Currently working as an **Senior AI Enginner** at **Bosch XC**, focusing on LLM and Smart Cockpit AI architecture.
 - ⚙️ Previously worked at **Qualcomm** and **Sophgo**, driving the ultimate performance optimization for LLM/VLM on Snapdragon NPUs and RISC-V TPUs.
-- 💡 **Core Innovator**: Holding a core patent (**NativeKV**) for optimizing KV Cache memory layout using matrix instructions to break the Memory Wall in long-context LLM inference.
 - 🎓 Master's degree in Electronic Information from **Southeast University (985)**.
 - 📫 Reach me out via: **18392211128@163.com**
 
